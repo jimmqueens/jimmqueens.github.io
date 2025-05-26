@@ -1,8 +1,7 @@
 /* jims PP photo */
 
-#JIMPPImage {
-  display: block;
-  margin: 20px auto; /* centers image and adds vertical space */
-  width: 150px;      /* adjust as needed */
-  height: 150;
-  }
+#Avatar {
+  float: right;  /* or left */
+  width: 200px;
+  margin: 20px;  /* optional, for space around image */
+}
