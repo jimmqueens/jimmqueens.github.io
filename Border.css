@@ -1,0 +1,7 @@
+/*  Border.css  */
+
+body {
+  border: 5px solid #333;  /* 5px thick, solid, dark gray */
+  margin: 20px;            /* space between border and browser edge */
+  padding: 20px;           /* space between border and your content */
+}

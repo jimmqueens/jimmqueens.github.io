@@ -1,0 +1,8 @@
+/* jims PP photo */
+
+#JIMPPImage {
+  display: block;
+  margin: 20px auto; /* centers image and adds vertical space */
+  width: 150px;      /* adjust as needed */
+  height: 150;
+  }
