@@ -9,9 +9,18 @@ body {
 
 h1 {
   color: #007acc;
-  text-align: center;
+  text-align: left;
 }
 
+h2 {
+  color: darkblue;
+  text-align: left;
+}
+
+h3 {
+  color: royalblue;
+  text-align: left;
+}
 p {
   font-size: 1.2em;
   line-height: 1.6;
