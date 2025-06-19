@@ -1,7 +1,7 @@
 /* jims PP photo */
 
 #Avatar {
-  float: center;  /* or left */
+  float: left;  /* or left */
   width: 200px;
   margin: 20px;  /* optional, for space around image */
 }
